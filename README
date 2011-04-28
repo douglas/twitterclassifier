@@ -1,0 +1,18 @@
+How to use:
+
+1. Start two service in server folder:
+	node stream.js
+	node clsproxy.js
+
+2. Change two variables in index.html to your server url 
+	wsServerUrl 
+	clsServerUrl 
+
+3. lunch index.html in safari or chrome (web socket supported)
+
+*This app relies on google map, google geocode, google translate, 
+uclassify.com
+
+Any comment, please contact Homer Quan lujooo@gmail.com.
+
+
